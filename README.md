@@ -1,13 +1,14 @@
-<div> 
-  <h3>Hi There.</h3>
-  <h3>I'm Felipe Andrade de Morais</h3> 
-</div>
+ 
+### Hi There 👋 I'm Felipe Morais 
+[My Website](https://felipemorais.info/)
+
+## :nerd_face: I'm Full Stack Developer
 
 <div> 
-  - :nerd_face: I'm Full Stack Developer...<br>
   - 🔭 I’m currently working on Wordpress Development...<br>
   - :seedling: I’m currently learning AI and Machine Learning...<br>
-  - :zap: Fun Fact: The world's smallest reptile was first reported in 2021...
+  - :zap: Fun Fact: I like to program songs, yes it is possible, you can program songs using Chuck language 
+...
 </div>
 
 <br>
@@ -21,20 +22,42 @@
 <br>
   
 ## My Skills 
-<div>
-  <img height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-  <img height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
-  <img height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
-  <img height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
-  <img height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-</div>
+<p align="left"> 
+   <a href="https://www.w3schools.com/css/" target="_blank"> 
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a>  
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.linux.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a> 
+  <a href="https://reactjs.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a> 
+  <a href="https://sass-lang.com" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
+  </a>
+  <a href="https://laravel.com/" target="_blank"> 
+    <img height="40" width="40" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" /> 
+  </a> 
+  <a href="https://wordpress.com/pt-br/" target="_blank"> 
+    <img height="40" width="40" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-tile.svg" /> 
+  </a> 
+  <a href="https://www.docker.com/" target="_blank"> 
+    <img height="40" width="40" src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" /> 
+  </a> 
+</p>  
 
 <br>
   
-## Contact me
+## Connect with me:
 <div>
   <a href="https://www.linkedin.com/in/felipeandradedemorais/"> 
     <img height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
