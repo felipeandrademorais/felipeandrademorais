@@ -5,8 +5,8 @@
 ## :nerd_face: I'm Full Stack Developer
 
 <div> 
-  - 🔭 I’m currently working on Wordpress Development...<br>
-  - :seedling: I’m currently learning AI and Machine Learning...<br>
+  - 🔭 I’m currently working with PHP Development using Laravel, Symfony and CakePHP...<br>
+  - :seedling: I’m currently learning software architecture...<br>
   - :zap: Fun Fact: I like to program songs, yes it is possible, you can program songs using Chuck language 
 ...
 </div>
