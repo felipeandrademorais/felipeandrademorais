@@ -57,7 +57,7 @@
 
 <br>
   
-## Connect with me:
+## Get in touch:
 <div>
   <a href="https://www.linkedin.com/in/felipeandradedemorais/"> 
     <img height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
